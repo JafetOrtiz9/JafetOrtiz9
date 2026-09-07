@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jafet! <br/><a </h1>
 
-<h2>👨‍💻 Networking Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
